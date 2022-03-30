@@ -48,7 +48,7 @@ Read through our [Contribution Guidelines](CONTRIBUTING.md) before you contribut
 
 ## Community Channels
 
-We're on [Discord](https://discord.gg/c7MnfGFGa6) and [Gitter](https://gitter.im/TheAlgorithms)! Community channels are great for you to ask questions and get help. Please join us!
+We're on [Discord](https://discord.gg/c7MnfGFGa6) and [Gitter](https://gitter.im/TheAlgorithms)! Community channels are great for you to ask questions and get help. Please join us
 
 ## List of Algorithms
 
